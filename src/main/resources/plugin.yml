@@ -1,0 +1,4 @@
+name: PlayTimeLimiter
+version: '${project.version}'
+main: org.slayz.playtimelimiter.PlayTimeLimiter
+api-version: 1.19
